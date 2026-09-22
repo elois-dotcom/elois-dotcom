@@ -14,12 +14,11 @@
 *    
 
 ---
-
 ## 🌐 Connect with me:
 <p align="left">
-  <a href="https://twitter.com" target="blank"><img src="https://githubusercontent.com" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com" target="blank"><img src="https://githubusercontent.com" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com" target="blank"><img src="https://githubusercontent.com" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://twitter.com" target="_blank"><img src="https://githubusercontent.com" alt="Twitter" height="30" width="40" /></a>&nbsp;
+  <a href="https://linkedin.com" target="_blank"><img src="https://githubusercontent.com" alt="LinkedIn" height="30" width="40" /></a>&nbsp;
+  <a href="https://instagram.com" target="_blank"><img src="https://githubusercontent.com" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 ---
