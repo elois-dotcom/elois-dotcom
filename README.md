@@ -1,16 +1,12 @@
-# Hi 👋, I'm [Your Name]
-
-### A passionate [Your Profession/Role] from [Your City, Country]
+# Hi, I'm MUTABOBA Elois
 
 ---
 
 ## 💬 Ask me about...
-*   Database Administration (Oracle 21c, PDB Architecture)
-*   Linux Environments (Kali Linux, Bash Scripting)
-*   Container Deployment (Docker, Ports Forwarding)
+*   Database development using (PlSql, MySql)
 *   UI/UX Designing
 *   Email Marketing (Klaviyo + Figma)
-*   Web Development
+*   Web Development 
 *    
 
 ---
